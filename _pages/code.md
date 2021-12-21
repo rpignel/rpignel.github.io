@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-My favorite languages, and at level of mastery are: Python, HTML, CSS, Java, PHP, Swift
+My favorite languages are: Python, HTML, CSS, Java, PHP, Swift
 
 However, I am learning R and Ruby
 
