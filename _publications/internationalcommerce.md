@@ -9,4 +9,4 @@ paperurl: ''
 citation: ''
 ---
 
-[Download paper here](https://pignel.com/papers/Should_central_banks_issues_cryptocurrency__R%C3%A9my%20PIGNEL.pdf)
+[Download paper here](https://pignel.com/papers/Commerce_international_&_politiques_envrionnementales-R%C3%A9my%20PIGNEL.pdf)
